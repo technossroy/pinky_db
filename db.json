@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "name": "Sukanta SinghaRoy",
+      "email": "technossroy@gmail.com",
+      "phone": "8436412875",
+      "password": "password",
+      "id": 1
+    },
+    {
+      "name": "Amit Das",
+      "email": "amit@gmail.com",
+      "phone": "8745632147",
+      "password": "password",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "name": "Shanka",
+      "email": "shanka@gmail.com",
+      "phone": "9874563210",
+      "password": "password",
+      "id": 4
+    },
+    {
+      "name": "Sukanta Singharoy",
+      "email": "technossroy@gmail.com",
+      "phone": "8436412875",
+      "password": "password",
+      "id": 5
+    }
+  ],
+  "Puser": [
+    {
+      "name": "Freya Upddate",
+      "sex": "FEMALE",
+      "dob": "08/10/2000",
+      "phoneno": "",
+      "email": "apptesting@gmail.com",
+      "height": "62",
+      "weight": "49",
+      "state": "",
+      "city": "",
+      "pincode": "",
+      "address_line1": "",
+      "address_line2": "Dhaniakhali",
+      "bmi": "19.758025",
+      "lab_locality": "",
+      "id": 1
+    },
+    {
+      "name": "Freya Das",
+      "sex": "FEMALE",
+      "dob": "2023-02-16",
+      "phoneno": "",
+      "email": "apptesting2@gmail.com",
+      "height": "65",
+      "weight": "55",
+      "state": "",
+      "city": "kolkata",
+      "pincode": "700001",
+      "address_line1": "",
+      "address_line2": "Dhaniakhali",
+      "bmi": "19.758025",
+      "lab_locality": "",
+      "id": 2
+    },
+    {
+      "name": "Moumita pal",
+      "sex": "Female",
+      "dob": "2023-02-07",
+      "phoneno": "9638527412",
+      "email": "moumita_pal@gmail.com",
+      "height": "150",
+      "weight": "45",
+      "state": "State",
+      "city": "kolkata",
+      "pincode": "874569",
+      "address_line1": "Address Line1",
+      "address_line2": "Address Line1 Address Line2",
+      "bmi": "Bmi",
+      "lab_locality": "Lab Locality",
+      "id": 3
+    }
+  ],
+  "TestBooking": [
+    {
+      "patient_id": 1,
+      "test_name": "HIV (HIV I, II, p24 Antigen)",
+      "booking_date": "2023-02-16",
+      "booking_time": "07:57",
+      "id": 3
+    },
+    {
+      "patient_id": 2,
+      "test_name": "HIV (HIV I, II, p24 Antigen)",
+      "booking_date": "2023-02-10",
+      "booking_time": "02:04",
+      "id": 4
+    }
+  ]
+}
